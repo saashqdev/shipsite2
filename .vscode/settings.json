@@ -41,11 +41,13 @@
     "brevo",
     "heros",
     "importmap",
+    "intakevms",
     "payloadcms",
     "postsdoc",
     "shipship",
     "shipshipv",
     "sonner",
+    "SUPABASE",
     "tabler"
   ]
 }

@@ -1,5 +1,5 @@
 
-# ShipShip - Project Maker For NextJS, Payload CMS, Tailwind CSS
+# ShipShip2 - Project Maker For NextJS, Payload CMS, Tailwind CSS
 
 This project is a modern website template built with Next.js and Payload CMS, featuring automatic plugin integrations and addons like authentication, S3 storage and billing. It uses the convenience of Payload CMS and NextJS framework to create efficient websites fast.
 ## Features
@@ -36,14 +36,29 @@ Once complete, you can then run the server locally by:
 (1) First Installing dependencies
 
 ```bash
-  npm install
+  pnpm install
 ```
 
-(2) Then you can start the server
+(2) Start the development server
 
 ```bash
-  npm run dev
+  pnpm dev
 ```
+
+---
+
+(3) Build for production
+
+```bash
+  pnpm build
+```
+
+(4) Start the production server
+
+```bash
+  pnpm start
+```
+
 
 ## Feedback
 
